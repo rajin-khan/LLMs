@@ -29,6 +29,8 @@ Whether you're just getting started or prepping for an AI job interview, this re
 
 ---
 
+</div>
+
 ## 📂 Structure
 
 ```plaintext
@@ -38,7 +40,7 @@ Whether you're just getting started or prepping for an AI job interview, this re
 ├── 📁 examples/          # End-to-end mini projects and applications
 ├── 📄 README.md          # This file
 ```
-
+<div align="center">
 ---
 
 ## 🛠️ Tools & Technologies
@@ -79,8 +81,6 @@ This project is built on insights from this amazing crash course:
 [![YouTube](https://img.shields.io/badge/Watch%20Crash%20Course-Fine--Tuning%20LLMs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=iOdFUJiB0Zc)
 
 ---
-
-<div align="center">
 
 [![Dev Quotes](https://quotes-github-readme.vercel.app/api?border=truel&type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
